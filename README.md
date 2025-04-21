@@ -1,12 +1,13 @@
-## maxDEV: Maximize Developer Productivity
+# maxDEV: Maximize Developer Productivity
 
 **maxDEV** is a cross-platform and extensible desktop application for developers. It offers a set of ready-to-use tools in categories such as security, server management, encoders/decoders, and more.
 
-> [!WARNING]
-> **EARLY ACCESS**: **maxDEV** is currently in the early access phase. Features may be incomplete, contain bugs, or change significantly between releases.
+## Download ⬇️⬇️
 
-> [!NOTE]
-> This repository contains only release distributions of maxDEV, which is closed-source software. No source code is provided here, only installable packages for supported platforms.
+**Get maxDEV** for Windows, macOS, or Linux:
+
+- [**Download Page**](https://kenanbek.github.io/maxDEV/download.html) - With automatic platform detection
+- [**Download from Releases**](https://github.com/KenanBek/maxDEV/releases) - All platform versions
 
 <img width="1136" alt="maxDEV 1.0.3" src="https://github.com/user-attachments/assets/06c746d9-66f7-4fd4-9267-8cfc2b1bc629" />
 
@@ -29,15 +30,13 @@
 
 ## Get Started
 
-Download the latest version of maxDEV for your platform from the [Releases](https://github.com/KenanBek/maxDEV/releases) or from the [Download Page](https://kenanbek.github.io/maxDEV/download.html) with autotomatic platform detection.
-
 The application is available for Windows, macOS, and Linux.
 
 ### Good to Know
 
 #### Privacy First: Local and Offline Operation
 
-All tools run completely locally on your machine. No tool-related data is transmitted to the internet. The only exception is **Sentry** integration for error tracking and reporting, which sends anonymized data without any personally identifiable information.
+All tools run locally on your machine. No tool-related data is transmitted to the internet. The only exception is **Sentry** integration for error tracking and reporting, which sends anonymized data without any personally identifiable information.
 
 #### Update Policy
 
@@ -47,4 +46,10 @@ All tools run completely locally on your machine. No tool-related data is transm
 
 #### Pricing Model
 
-During the early access program, **maxDEV** is completely free. For the future, I'm considering a freemium model where core tools will remain free while premium features will require payment.
+During the early access program, **maxDEV** is completely free. For the future, I'm considering a freemium model where core tools will be free, while premium features will require a payment.
+
+> [!WARNING]
+> **EARLY ACCESS**: **maxDEV** is currently in the early access phase. Features may be incomplete, contain bugs, or change significantly between releases.
+
+> [!NOTE]
+> This repository contains only release distributions of maxDEV, which is closed-source software. No source code is provided here, only installable packages for supported platforms.
