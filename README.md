@@ -9,9 +9,11 @@ maxDEV: Maximize Developer Productivity
 > [!NOTE]
 > This repository contains only release distributions of maxDEV, which is closed-source software. No source code is provided here, only installable packages for supported platforms.
 
+<img width="1136" alt="maxDEV 1.0.3" src="https://github.com/user-attachments/assets/06c746d9-66f7-4fd4-9267-8cfc2b1bc629" />
+
 ## Supported Tools
 
-maxDEV includes various productivity tools across different categories:
+**maxDEV** includes various productivity tools across different categories:
 
 | Category | Tool | Description | Phase |
 |----------|------|-------------|-------|
