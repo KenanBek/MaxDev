@@ -33,8 +33,18 @@ Download the latest version of maxDEV for your platform from the [Releases](http
 
 The application is available for Windows, macOS, and Linux.
 
-### Updates
+### Good to Know
 
-Currently, we use an **aggressive** update strategy. This means that the application checks for updates every time it is launched. If an update is available, it is downloaded and installed automatically.
+#### Privacy First: Local and Offline Operation
 
-With more stable releases, we will switch to a **background** update strategy. This means that the application will check for updates in the background and notify the user when an update is available. The user can then choose to install the update or ignore it.
+All tools run completely locally on your machine. No tool-related data is transmitted to the internet. The only exception is **Sentry** integration for error tracking and reporting, which sends anonymized data without any personally identifiable information.
+
+#### Update Policy
+
+**Current approach**: maxDEV uses an **aggressive** update strategy - the application checks for updates at every launch and automatically downloads and installs them when available.
+
+**Future approach**: Once the application becomes more stable, we'll switch to a **background** update strategy - the application will check for updates in the background and notify you when an update is available. You'll then have the choice to install or postpone the update.
+
+#### Pricing Model
+
+During the early access program, **maxDEV** is completely free. For the future, I'm considering a freemium model where core tools will remain free while premium features will require payment.
