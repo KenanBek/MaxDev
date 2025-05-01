@@ -2,6 +2,12 @@
 
 This directory contains a simple environment for manually testing the Redis client tool in maxDEV.
 
+[Download maxDEV](https://maxdevapp.com/download/) and use the [Redis Client](https://maxdevapp.com/redis-client/) to connect to a Redis server and manage your data.
+
+## Prerequisites
+
+- **Docker**: Make sure you have Docker installed and running on your machine. You can download it from [Docker's official website](https://www.docker.com/get-started).
+
 ## Getting Started
 
 Use the following command to set up the test environment and populate it with sample data. This will start a Redis server and load some test data.
@@ -62,3 +68,7 @@ When using `make run`, a simulation runs that:
 - Updates various data types (lists, sets, hashes)
 
 This makes it easy to test how the maxDEV Redis client handles real-time data changes, expired keys, and pub/sub functionality.
+
+## Learn More
+
+For more information about the Redis client tool in maxDEV, visit the [Redis Client Documentation](https://maxdevapp.com/redis-client/).

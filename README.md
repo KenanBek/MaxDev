@@ -2,7 +2,7 @@
 
 **maxDEV** is a cross-platform and extensible desktop application for developers. It offers a set of ready-to-use tools in categories such as security, server management, encoders/decoders, and more.
 
-## Download ⬇️⬇️
+## ⬇️ Download
 
 **Get maxDEV** for Windows, macOS, or Linux:
 
@@ -15,22 +15,22 @@
 
 **maxDEV** includes various productivity tools across different categories:
 
-| Category              | Tool                   | Description                                  | Phase            |
-| --------------------- | ---------------------- | -------------------------------------------- | ---------------- |
-| **Server Management** | **Mock Server**        | Create and manage mock servers               | Alpha            |
-| **Server Management** | **HTTP Tester**        | Test HTTP requests and analyze responses     | Alpha            |
-| **Databases**         | **Redis Client**       | Connect to and manage Redis databases        | Proof of Concept |
-| **Encode / Decode**   | **JWT Token**          | Create and decode JWT tokens                 | Beta             |
-| **Encode / Decode**   | **Base64**             | Encode and decode Base64 data                | Beta             |
-| **Formatting**        | **JSON Formatter**     | Format and beautify JSON data                | Beta             |
-| **Security**          | **Password Generator** | Generate secure passwords                    | Beta             |
-| **Security**          | **Hash Generator**     | Generate MD5, SHA-1, SHA-256, SHA-512 hashes | Beta             |
+| Category              | Tool                   | Description                                  | Phase | Learn More                                 |
+| --------------------- | ---------------------- | -------------------------------------------- | ----- | ------------------------------------------ |
+| **Server Management** | **Mock Server**        | Create and manage mock servers               | Alpha |                                            |
+| **Server Management** | **HTTP Tester**        | Test HTTP requests and analyze responses     | Alpha |                                            |
+| **Databases**         | **Redis Client**       | Connect to and manage Redis databases        | Alpha | [Doc](https://maxdevapp.com/redis-client/) |
+| **Encode / Decode**   | **JWT Token**          | Create and decode JWT tokens                 | Beta  |                                            |
+| **Encode / Decode**   | **Base64**             | Encode and decode Base64 data                | Beta  |                                            |
+| **Formatting**        | **JSON Formatter**     | Format and beautify JSON data                | Beta  |                                            |
+| **Security**          | **Password Generator** | Generate secure passwords                    | Beta  |                                            |
+| **Security**          | **Hash Generator**     | Generate MD5, SHA-1, SHA-256, SHA-512 hashes | Beta  |                                            |
 
-> Development phases: **Proof of Concept** → **Alpha** → **Beta** → Stable
+> Development phases: **Proof of Concept** → **Alpha** → **Beta** → Stable. Learn more about the phases in the [**Documentation**](https://maxdevapp.com/devtools-lifecycle/).
 
 ## Get Started
 
-The application is available for Windows, macOS, and Linux.
+**maxDEV** is available for Windows, macOS (Apple Silicon, Intel), and Linux.
 
 ### Good to Know
 
@@ -49,7 +49,34 @@ All tools run locally on your machine. No tool-related data is transmitted to th
 During the early access program, **maxDEV** is completely free. For the future, I'm considering a freemium model where core tools will be free, while premium features will require a payment.
 
 > [!WARNING]
-> **EARLY ACCESS**: **maxDEV** is currently in the early access phase. Features may be incomplete, contain bugs, or change significantly between releases.
+> EARLY ACCESS: **maxDEV** is currently in the early access phase. Features may be incomplete, contain bugs, or change significantly between releases.
 
 > [!NOTE]
 > This repository contains only release distributions of maxDEV, which is closed-source software. No source code is provided here, only installable packages for supported platforms.
+
+## Release Notes
+
+Check the [Release Notes](https://maxdevapp.com/release-notes/) page for the complete list of changes and compatibility notes.
+
+### v1.0.4
+
+- Manage multiple Redis connections easily
+- Navigate with the new tab-based interface (Explorer, Commands, Info)
+- View and edit Redis values directly in the interface
+- Execute Redis commands with a simple command line
+- Browse detailed server information
+
+[Learn more, check the demo video and downloadable assets for v1.0.4](https://maxdevapp.com/blog/maxdev-v1-0-4-beta-release/)
+
+### v1.0.3
+
+- Introduce a PoC version of the Redis Client
+- Improvements to the Mock Server
+- Improvements to the HTTP Tester
+- Update app icons
+
+[Learn more, check the demo video and downloadable assets for v1.0.3](https://maxdevapp.com/blog/maxdev-v1-0-3-beta-release/)
+
+## Related Sub-projects
+
+- [Redis Client tester](./redisclient/README.md) - A simple environment for manually testing the Redis client tool in maxDEV.
