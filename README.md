@@ -2,11 +2,14 @@
 
 **maxDEV** is a cross-platform and extensible desktop application for developers. It offers a set of ready-to-use tools in categories such as security, server management, encoders/decoders, and more.
 
+Visit the [**maxDEV website**](https://maxdevapp.com/) for more information.
+
 ## ⬇️ Download
 
 **Get maxDEV** for Windows, macOS, or Linux:
 
-- [**Download Page**](https://kenanbek.github.io/maxDEV/download.html) - With automatic platform detection
+- [**Download from Website**](https://maxdevapp.com/download/) - With automatic platform detection
+- [**Download Tool**](https://kenanbek.github.io/maxDEV/download.html) - Static HTML page with download links for all platforms
 - [**Download from Releases**](https://github.com/KenanBek/maxDEV/releases) - All platform versions
 
 <img width="1136" alt="maxDEV 1.0.3" src="https://github.com/user-attachments/assets/06c746d9-66f7-4fd4-9267-8cfc2b1bc629" />
