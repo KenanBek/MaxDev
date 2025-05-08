@@ -61,6 +61,15 @@ During the early access program, **maxDEV** is completely free. For the future, 
 
 Check the [Release Notes](https://maxdevapp.com/release-notes/) page for the complete list of changes and compatibility notes.
 
+### v1.1.0
+
+- New Settings system (see [the Settings documentation page](https://maxdevapp.com/docs/settings/) for more details)
+- UI Notification system (check the below link for a demo)
+- Store Redis connection strings
+- [Fix the launch issue on Windows OS](https://maxdevapp.com/blog/fix-for-the-launch-issue-on-windows-os/)
+
+[Learn more, check the demo video and downloadable assets for v1.0.4](https://maxdevapp.com/blog/maxdev-v1-1-0-beta-release/)
+
 ### v1.0.4
 
 - Manage multiple Redis connections easily
